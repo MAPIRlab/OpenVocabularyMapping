@@ -1,0 +1,6 @@
+[submodule "TALOS"]
+	path = TALOS
+	url = git@github.com:macorisd/TALOS.git
+[submodule "Voxeland"]
+	path = Voxeland
+	url = git@github.com:MAPIRlab/Voxeland.git
